@@ -6,3 +6,7 @@ print(total_marks)
 
 average_marks = total_marks / 3
 print(average_marks)
+
+#OUTPUT:
+#245
+#81.66666666666667 
