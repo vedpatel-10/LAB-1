@@ -4,3 +4,7 @@ print(area_of_square)
 
 perimeter_of_square = 4 * length_of_square
 print(perimeter_of_square)
+
+#OUTPUT:
+#25
+#20
