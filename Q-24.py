@@ -7,3 +7,7 @@ a = a - b
 
 print(a)
 print(b)
+
+#OUTPUT:
+#72
+#45 
