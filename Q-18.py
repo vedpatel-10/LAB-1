@@ -5,3 +5,7 @@ print(area_of_rectangle)
 
 perimeter_of_rectangle = 2 * (length + breadth)
 print(perimeter_of_rectangle)
+
+#OUTPUT:
+#12
+#14
